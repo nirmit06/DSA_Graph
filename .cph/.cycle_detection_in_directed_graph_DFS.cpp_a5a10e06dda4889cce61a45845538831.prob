@@ -1,0 +1,1 @@
+{"name":"Local: cycle_detection_in_directed_graph_DFS","url":"d:\\Graph\\cycle_detection_in_directed_graph_DFS.cpp","tests":[{"id":1656919664205,"input":"9 9\n1 2\n2 3\n3 4\n3 6\n4 5\n6 5\n7 2\n7 8\n8 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Graph\\cycle_detection_in_directed_graph_DFS.cpp","group":"local","local":true}
